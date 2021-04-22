@@ -1,6 +1,4 @@
 # Env_san
-Repository for the analysis of the sanitation conditions of the 443 costal cities in Brazil, in adition of turism data.
+Power BI Dashboard with environmental, economic and sanitation data of the 443 brazilian coastal cities. 
 
-POWER BI DASHBOARD - https://app.powerbi.com/view?r=eyJrIjoiOWQxMmQ0NzktZDAxOC00NTI4LTg0MTUtZGNjMzIyNjg1MzZhIiwidCI6IjM5NTdhMzY3LTZkMzgtNGMxZi1hNGJhLTMzZThmM2M1NTBlNyJ9&pageName=ReportSection
-
-Data source - SNIS 2018 - http://www.snis.gov.br/ and Ministry of Turism - http://mapa.turismo.gov.br/mapa/#/home
+POWER BI DASHBOARD - https://app.powerbi.com/view?r=eyJrIjoiZDI0ZGVhOTQtOTJhNy00NzcxLTg5MTItZDNhMWQ2MDcxODMzIiwidCI6IjM5NTdhMzY3LTZkMzgtNGMxZi1hNGJhLTMzZThmM2M1NTBlNyJ9&pageName=ReportSection5dfdb0ba646874dfbe51
